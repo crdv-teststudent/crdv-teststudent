@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @crdv-teststudent
-- 👀 I’m interested in ... Learning how to code!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Software Development!
+- 🌱 I’m currently learning ... How to Code!
 
 <!---
 crdv-teststudent/crdv-teststudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
